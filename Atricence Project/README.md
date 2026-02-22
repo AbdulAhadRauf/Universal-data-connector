@@ -159,6 +159,15 @@ uvicorn app.main:app --reload
 
 The Swagger API docs are available at **http://localhost:8000/docs**
 
+### Error Patch
+```code
+pip install ffmpeg-downloader
+ffdl install --add-path
+```
+
+ goto link and agree with terms and conditions
+ ```https://console.groq.com/playground?model=canopylabs/orpheus-v1-english ```
+
 ### 4. Run the Voice Agent
 
 ```bash
