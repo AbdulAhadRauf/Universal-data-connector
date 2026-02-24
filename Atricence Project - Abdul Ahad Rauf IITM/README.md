@@ -183,9 +183,6 @@ docker-compose up --build
 ```bash
 pytest tests/ -v
 ```
-
----
-
 ## 📡 API Endpoints
 
 | Method | Endpoint                    | Description                              | Key Parameters                              |
@@ -288,6 +285,11 @@ pytest tests/ -v
 ```
 
 ---
+
+### 🎥 Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/1wHItFra8Ww5NHv9KZFSXq1YyAZJHrDrk/view?usp=drive_link)
+
+
 
 ## 📜 License
 
