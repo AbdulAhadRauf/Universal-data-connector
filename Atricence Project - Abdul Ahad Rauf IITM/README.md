@@ -7,6 +7,10 @@ pip install ffmpeg-downloader
 ffdl install --add-path
 ---
 
+### 🎥 Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/1wHItFra8Ww5NHv9KZFSXq1YyAZJHrDrk/view?usp=drive_link)
+---
+
 ## ✨ Key Features
 
 | Feature                        | Description                                                                                       |
@@ -22,11 +26,7 @@ ffdl install --add-path
 | **Tested**                   | pytest suite covering connectors, business rules, and all API endpoints                           |
 
 ---
-### 🎥 Demo Video
-[Click here to watch the demo video](https://drive.google.com/file/d/1wHItFra8Ww5NHv9KZFSXq1YyAZJHrDrk/view?usp=drive_link)
 
-
----
 ## 🏗️ Architecture Overview
 
 ```
