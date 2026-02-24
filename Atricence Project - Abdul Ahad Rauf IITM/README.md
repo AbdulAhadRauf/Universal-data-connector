@@ -26,6 +26,7 @@ ffdl install --add-path
 [Click here to watch the demo video](https://drive.google.com/file/d/1wHItFra8Ww5NHv9KZFSXq1YyAZJHrDrk/view?usp=drive_link)
 
 
+---
 ## 🏗️ Architecture Overview
 
 ```
